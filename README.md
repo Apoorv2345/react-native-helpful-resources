@@ -4,9 +4,6 @@ The turf of development is changing quite rapidly so people need guidance about 
 
 React Native is similiar to React Js, in terms of architecture, similiar components, similiar lifecycles.
 
-## For single source of truth, I would recommend only to rely on the official documentation
-  - https://facebook.github.io/react-native/
-
 ## Development journeys
   - https://accenture.github.io/blog/2017/04/04/reactlearnings.html
   - https://medium.com/dailyjs/11-mistakes-ive-made-during-react-native-redux-app-development-8544e2be9a9
@@ -21,3 +18,6 @@ React Native is similiar to React Js, in terms of architecture, similiar compone
 
 ## Third-party libraries/boilerplates
   - https://blog.bitsrc.io/11-react-native-component-libraries-you-should-know-in-2018-71d2a8e33312
+  
+ ## For single source of truth, I would recommend only to rely on the official documentation
+  - https://facebook.github.io/react-native/
