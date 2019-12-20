@@ -18,3 +18,6 @@ React Native is similiar to React Js, in terms of architecture, similiar compone
 ## Best practices
   - https://medium.com/react-native-training/best-practices-for-creating-react-native-apps-part-1-66311c746df3
   - https://www.codeinwp.com/blog/react-best-practices/
+
+## Third-party libraries/boilerplates
+  - https://blog.bitsrc.io/11-react-native-component-libraries-you-should-know-in-2018-71d2a8e33312
