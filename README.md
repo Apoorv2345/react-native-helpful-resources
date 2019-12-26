@@ -1,4 +1,4 @@
-# List of articles & resources for quick & robust development in react-native (beginner friendly)
+# List of articles & resources for quick & robust development in react-native
 
 The turf of development is changing quite rapidly so people need guidance about which articles to read / tutorials to refer to and stack for quick development. (feel free to contribute if we missed some)
 
