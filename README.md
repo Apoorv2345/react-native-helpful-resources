@@ -11,6 +11,7 @@ React Native is similiar to React Js, in terms of architecture, similiar compone
 ## Performance & Optimizations
   - https://hackernoon.com/react-native-performance-do-and-dont-1198e97b730a
   - https://medium.com/sanjagh/how-to-optimize-your-react-native-flatlist-946490c8c49b
+  - [https://www.ideamotive.co/react-native-development-guide](https://www.ideamotive.co/react-native-development-guide/?utm_source=github&utm_medium=social&utm_campaign=react_native_pillar)
 
 ## Best practices
   - https://medium.com/react-native-training/best-practices-for-creating-react-native-apps-part-1-66311c746df3
